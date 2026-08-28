@@ -32,7 +32,7 @@
 
 <div align="center">
   <h3><b>Languages & Frameworks</b></h3>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,nodejs,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,node,bash&perline=8" />
   
   <h3><b>Tools & Platforms</b></h3>
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,sqlite,git,github,azure,docker,mysql&perline=8" />
@@ -68,3 +68,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Necromancervbh&theme=tokyonight&hide_border=true&v=2" />
 </div>
+
