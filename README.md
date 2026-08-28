@@ -75,12 +75,13 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Necromancervbh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Necromancervbh&theme=tokyonight&no-frame=true&no-bg=true" />
 </div>
 
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
 </div>
+
 
 
