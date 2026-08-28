@@ -70,15 +70,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancervbh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Necromancervbh&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
 </div>
+
