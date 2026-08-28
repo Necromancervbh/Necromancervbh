@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vaibhav+👋;Full+Stack+Developer;Data+Scientist+%26+ML+Engineer;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I+am+Vaibhav;Full+Stack+Developer;Data+Scientist+and+ML+Engineer;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code" alt="Typing SVG" />
 </div>
 
 ---
@@ -70,8 +70,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <br/>
 <div align="center">
@@ -82,4 +82,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
 </div>
+
 
