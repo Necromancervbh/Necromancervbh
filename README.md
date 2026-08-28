@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Data%20Scientist%20%7C%20Android%20Dev%20%7C%20Automation&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20Android%20Dev&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vaibhav+👋;B.Tech+CS+(Data+Science)+Graduate;Building+Intelligent+ML+Pipelines;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vaibhav+👋;Full+Stack+Developer;Data+Scientist+%26+ML+Engineer;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,11 +27,11 @@
       <h2 align="center">👨‍💻 About Me</h2>
       <ul>
         <li>🎓 <b>B.Tech CS (Data Science)</b> from UPES, Dehradun.</li>
+        <li>💻 Currently working as a <b>Full Stack Developer</b>.</li>
         <li>💼 Previously <b>Data Science Intern @ IBM</b>.</li>
         <li>🚀 Shipped production Android apps with <b>MVVM, WebRTC & Firebase</b>.</li>
-        <li>🌱 Preparing for <b>Azure Data Scientist Associate (DP-100)</b>.</li>
         <li>🏆 Certified in <b>Applied Data Science & ML</b> (IIT Roorkee).</li>
-        <li>🎯 Seeking full-time roles in <b>Data Science & Android Dev</b>.</li>
+        <li>🎯 Seeking full-time roles in <b>Full Stack, Data Science & Android Dev</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -51,7 +51,7 @@
 
 <div align="center">
   <h3><b>Languages & Core</b></h3>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,sql,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,sql,bash&perline=10" />
   
   <h3><b>Data Science & AI</b></h3>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-  <h3><b>App Dev & Tools</b></h3>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,sqlite,git,github,azure,docker&perline=10" />
+  <h3><b>Full Stack, App Dev & Tools</b></h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,androidstudio,firebase,sqlite,git,github,azure,docker&perline=10" />
 </div>
 
 ---
@@ -70,7 +70,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <!-- Fixed stats by removing count_private=true -->
   <img src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
 </div>
