@@ -1,4 +1,4 @@
-﻿<!-- Header -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=250&section=header&text=Vaibhav%20Shukla&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Android&descSize=22&descAlignY=55" width="100%" />
 </div>
@@ -21,7 +21,7 @@
       <p>🌱 <b>Currently learning:</b> Advanced Agentic AI & Azure Cloud Architecture.</p>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,issues,stars&v=8" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=9" width="100%" />
     </td>
   </tr>
 </table>
