@@ -21,7 +21,7 @@
       <p>🌱 <b>Currently learning:</b> Advanced Agentic AI & Azure Cloud Architecture.</p>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&v=7" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,issues,stars&v=8" width="100%" />
     </td>
   </tr>
 </table>
@@ -81,3 +81,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=100&section=footer" width="100%" />
 </div>
+
