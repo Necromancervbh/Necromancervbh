@@ -1,74 +1,86 @@
 ﻿<div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20Android%20Dev&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6E40C9&height=120&section=header&text=Vaibhav%20Shukla&fontSize=50&fontAlignY=50" width="100%" />
+  
+  <br><br>
+
+  <a href="https://linkedin.com/in/vaibhav-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vaibhavshukl23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Necromancervbh"><img src="https://img.shields.io/github/followers/Necromancervbh?label=Followers&style=for-the-badge&color=23272D" /></a>
+
+  <h3>Full Stack Developer • Data Scientist • Android Developer</h3>
 </div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/vaibhav-shukla">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vaibhavshukl23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Necromancervbh?label=Followers&style=for-the-badge&color=23272D" />
-</div>
-
-<br/>
-
-<h2 align="center">👋 Hey there! I'm Vaibhav</h2>
-<p align="center">
-  <b>Full Stack Developer | Data Scientist & ML Engineer | Android Developer</b><br/>
-  <i>Crafting robust applications and turning coffee into code ☕</i>
-</p>
 
 ---
 
-<table>
+## 👨‍💻 `whoami`
+
+```json
+{
+  "name": "Vaibhav Shukla",
+  "education": "B.Tech CS (Data Science) @ UPES, Dehradun",
+  "experience": [
+    "Full Stack Developer (Current)",
+    "Data Science Intern @ IBM (Past)"
+  ],
+  "certifications": [
+    "Applied Data Science & ML (IIT Roorkee)",
+    "Microsoft Azure Data Scientist Associate (In Progress)"
+  ],
+  "goals": "Actively seeking full-time roles in Data Science, Full Stack, & Android Dev"
+}
+```
+
+---
+
+## 🚀 `featured_projects`
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">👨‍💻 About Me</h2>
-      <ul>
-        <li>🎓 <b>B.Tech CS (Data Science)</b> from UPES, Dehradun.</li>
-        <li>💻 Currently working as a <b>Full Stack Developer</b>.</li>
-        <li>💼 Previously <b>Data Science Intern @ IBM</b>.</li>
-        <li>🚀 Shipped production Android apps with <b>MVVM, WebRTC & Firebase</b>.</li>
-        <li>🏆 Certified in <b>Applied Data Science & ML</b> (IIT Roorkee).</li>
-        <li>🎯 Seeking full-time roles in <b>Full Stack, Data Science & Android Dev</b>.</li>
-      </ul>
+      <h3>🤖 <a href="https://github.com/Necromancervbh/slack-doc-bot">slack-doc-bot</a></h3>
+      <p>AI Slack bot answering queries from internal docs via Retrieval-Augmented Generation (RAG).</p>
+      <p><code>Python</code> <code>LangChain</code> <code>Pinecone</code> <code>GPT-4o</code></p>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">🚀 Featured Projects</h2>
-      <ul>
-        <li>📱 <b>TaxConnect</b><br/><i>Kotlin, MVVM, WebRTC, Firebase</i><br/>Production-grade two-sided marketplace for taxpayers & CAs.</li>
-        <li>🤖 <b><a href="https://github.com/Necromancervbh/slack-doc-bot">slack-doc-bot</a></b><br/><i>Python, LangChain, Pinecone, GPT-4o</i><br/>AI Slack bot answering queries from internal docs via RAG.</li>
-        <li>🏥 <b>Patient Outcome Predictor</b><br/><i>Python, Scikit-learn, SMOTE</i><br/>Clinical ML pipeline achieving 85%+ test accuracy.</li>
-      </ul>
+      <h3>📱 TaxConnect</h3>
+      <p>Production-grade two-sided Android marketplace for taxpayers & CAs with video consultations.</p>
+      <p><code>Kotlin</code> <code>MVVM</code> <code>WebRTC</code> <code>Firebase</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Patient Outcome Predictor</h3>
+      <p>Clinical ML pipeline achieving 85%+ test accuracy with class imbalance correction.</p>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>SMOTE</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Customer Churn Predictor</h3>
+      <p>Supervised classification model on a 10,000-record dataset achieving 91% AUC-ROC.</p>
+      <p><code>Python</code> <code>XGBoost</code> <code>Random Forest</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ `tech_stack`
 
 <div align="center">
-  <h3><b>Languages & Core</b></h3>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,sql,bash&perline=10" />
-  
-  <h3><b>Data Science & AI</b></h3>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-  <h3><b>Full Stack, App Dev & Tools</b></h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,androidstudio,firebase,sqlite,git,github,azure,docker&perline=10" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,sql,bash&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,androidstudio,firebase,sqlite,git,github,azure,docker&perline=8" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
 </div>
 
----
+<br>
 
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
+  <i>"Turning coffee into code, and data into decisions." ☕</i>
 </div>
