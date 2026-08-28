@@ -1,6 +1,6 @@
 ﻿<div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20Android%20Dev&descAlignY=55&descSize=20&animation=fadeIn&v=639235607727264710" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20Android%20Dev&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -15,9 +15,11 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I+am+Vaibhav;Full+Stack+Developer;Data+Scientist+and+ML+Engineer;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code&v=639235607727264710" alt="Typing SVG" />
-</div>
+<h2 align="center">👋 Hey there! I'm Vaibhav</h2>
+<p align="center">
+  <b>Full Stack Developer | Data Scientist & ML Engineer | Android Developer</b><br/>
+  <i>Crafting robust applications and turning coffee into code ☕</i>
+</p>
 
 ---
 
@@ -67,22 +69,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&v=639235607727264710" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=639235607727264710" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Necromancervbh&theme=tokyonight&no-frame=true&no-bg=true" />
-</div>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer&v=639235607727264710" />
-</div>
-
-
-
-
