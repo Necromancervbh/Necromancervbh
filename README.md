@@ -1,88 +1,85 @@
 ﻿<div align="center">
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Vaibhav%20Shukla&fontSize=70&fontAlignY=35&desc=Data%20Scientist%20%7C%20Android%20Dev%20%7C%20Automation&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
+</div>
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Vaibhav+Shukla+%F0%9F%91%8B;B.Tech+CS+(Data+Science)+Graduate;Data+Scientist+%26+ML+Engineer;Android+App+Developer;Automation+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <a href="https://linkedin.com/in/vaibhav-shukla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vaibhavshukl23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Necromancervbh?label=Followers&style=for-the-badge&color=23272D" />
+</div>
 
 <br/>
 
-<p align="center">
-  <b>Data Scientist | Android Developer | Automation Enthusiast</b><br/>
-  <i>Building intelligent ML pipelines, robust Android apps, and automation workflows.</i>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-shukla)
-[![GitHub followers](https://img.shields.io/github/followers/Necromancervbh?label=Followers&style=flat-square)](https://github.com/Necromancervbh)
-[![Email](https://img.shields.io/badge/Email-vaibhavshukl23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vaibhavshukl23@gmail.com)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vaibhav+👋;B.Tech+CS+(Data+Science)+Graduate;Building+Intelligent+ML+Pipelines;Crafting+Robust+Android+Apps;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech Computer Science (Data Science)** graduate from UPES, Dehradun.
-- 💼 Previously **Data Science Intern @ IBM** (via Phemosoft), building end-to-end Logistic Regression pipelines.
-- 🚀 Shipped production-grade Android apps like **TaxConnect** with MVVM, WebRTC, and Firebase.
-- 🌱 Currently preparing for the **Microsoft Azure Data Scientist Associate (DP-100)** certification.
-- 🏆 Certified in **Applied Data Science & Machine Learning Intelligence** by IIT Roorkee.
-- 🎯 Actively seeking full-time roles in **Data Science, Data Analytics, or Android Development**.
-- 📫 Reach out to me: **[vaibhavshukl23@gmail.com](mailto:vaibhavshukl23@gmail.com)**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">👨‍💻 About Me</h2>
+      <ul>
+        <li>🎓 <b>B.Tech CS (Data Science)</b> from UPES, Dehradun.</li>
+        <li>💼 Previously <b>Data Science Intern @ IBM</b>.</li>
+        <li>🚀 Shipped production Android apps with <b>MVVM, WebRTC & Firebase</b>.</li>
+        <li>🌱 Preparing for <b>Azure Data Scientist Associate (DP-100)</b>.</li>
+        <li>🏆 Certified in <b>Applied Data Science & ML</b> (IIT Roorkee).</li>
+        <li>🎯 Seeking full-time roles in <b>Data Science & Android Dev</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="center">🚀 Featured Projects</h2>
+      <ul>
+        <li>📱 <b>TaxConnect</b><br/><i>Kotlin, MVVM, WebRTC, Firebase</i><br/>Production-grade two-sided marketplace for taxpayers & CAs.</li>
+        <li>🤖 <b><a href="https://github.com/Necromancervbh/slack-doc-bot">slack-doc-bot</a></b><br/><i>Python, LangChain, Pinecone, GPT-4o</i><br/>AI Slack bot answering queries from internal docs via RAG.</li>
+        <li>🏥 <b>Patient Outcome Predictor</b><br/><i>Python, Scikit-learn, SMOTE</i><br/>Clinical ML pipeline achieving 85%+ test accuracy.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
+  <h3><b>Languages & Core</b></h3>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,sql,bash&perline=10" />
+  
+  <h3><b>Data Science & AI</b></h3>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white)
-
-### Data Science & ML
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Android Development
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jetpack](https://img.shields.io/badge/Jetpack_Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
+  <h3><b>App Dev & Tools</b></h3>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,sqlite,git,github,azure,docker&perline=10" />
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------|
-| 📱 **TaxConnect Marketplace** | Production-grade two-sided Android app connecting taxpayers and CAs with WebRTC video consultations and Room DB caching. | `Kotlin` `MVVM` `Firebase` `WebRTC` `Room DB` |
-| 🤖 [**slack-doc-bot**](https://github.com/Necromancervbh/slack-doc-bot) | AI Slack bot that answers team questions from internal docs using RAG and vector search. | `Python` `LangChain` `Pinecone` `GPT-4o` |
-| 🏥 **Patient Outcome Predictor** | Reproducible ML pipeline achieving 85%+ test accuracy on clinical data. Used SMOTE for class imbalance and generated explainability reports. | `Python` `Scikit-learn` `Pandas` |
-| 📊 **Customer Churn Predictor** | Supervised classification model on a 10,000-record dataset achieving 91% AUC-ROC, evaluating Logistic Regression, Random Forest, and XGBoost. | `Python` `XGBoost` `Random Forest` |
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
+  <!-- Fixed stats by removing count_private=true -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Necromancervbh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancervbh&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
 </div>
