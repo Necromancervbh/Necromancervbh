@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="assets/header-battle.webp" alt="A pixel-art developer battles a wild BUG with NEXT.JS, PYTHON and KOTLIN, then the title Vaibhav Shukla: Full Stack, Data Science, Android" width="100%" />
+  <img src="assets/header-battle-v2.webp" alt="A pixel-art developer battles a wild BUG with NEXT.JS, PYTHON and KOTLIN, then the title Vaibhav Shukla: Full Stack, Data Science, Android" width="100%" />
 </div>
 
 <!-- Quick Links -->
@@ -96,6 +96,6 @@
 <!-- Footer -->
 <br>
 <div align="center">
-  <img src="assets/footer-bug.webp" alt="Game saved: the friendly BUG hops across the forest floor. Thanks for stopping by" width="100%" />
+  <img src="assets/footer-bug-v2.webp" alt="Game saved: the friendly BUG hops across the forest floor. Thanks for stopping by" width="100%" />
 </div>
 
