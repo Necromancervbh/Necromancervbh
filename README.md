@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=250&section=header&text=Vaibhav%20Shukla&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Android&descSize=22&descAlignY=55" width="100%" />
+  <img src="assets/header-battle.webp" alt="A pixel-art developer battles a wild BUG with NEXT.JS, PYTHON and KOTLIN, then the title Vaibhav Shukla: Full Stack, Data Science, Android" width="100%" />
 </div>
 
 <!-- Quick Links -->
