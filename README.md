@@ -2,7 +2,7 @@
 
 **Shopify and frontend developer.** I design and build storefronts and landing pages that load fast and are a pleasure to use: Shopify themes and custom Liquid sections, Next.js and React sites, and Figma designs turned into responsive code.
 
-[Hire me on Upwork](https://www.upwork.com/freelancers/~01e34c5fa04da53175) · [Fiverr](https://www.fiverr.com/vaibhavshukl11) · [Email](mailto:vaibhavshukl23@gmail.com) · [LinkedIn](https://linkedin.com/in/vaibhav-shukla)
+[Hire me on Upwork](https://www.upwork.com/freelancers/~01e34c5fa04da53175) · [Fiverr](https://www.fiverr.com/vaibhavshukl11) · [Email](mailto:vaibhavshukl23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-1260a0188/)
 
 <br>
 
