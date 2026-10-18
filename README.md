@@ -1,78 +1,101 @@
-# Vaibhav Shukla
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=250&section=header&text=Vaibhav%20Shukla&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Android&descSize=22&descAlignY=55" width="100%" />
+</div>
 
-**Shopify and frontend developer.** I design and build storefronts and landing pages that load fast and are a pleasure to use: Shopify themes and custom Liquid sections, Next.js and React sites, and Figma designs turned into responsive code.
+<!-- Quick Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/vaibhav-shukla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vaibhavshukl23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Necromancervbh"><img src="https://img.shields.io/github/followers/Necromancervbh?label=Followers&style=for-the-badge&color=23272D" alt="Followers" /></a>
+</p>
 
-[Hire me on Upwork](https://www.upwork.com/freelancers/~01e34c5fa04da53175) · [Fiverr](https://www.fiverr.com/vaibhavshukl11) · [Email](mailto:vaibhavshukl23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-1260a0188/)
-
-<br>
-
-<a href="https://kitebill-app.pages.dev"><img src="assets/kitebill-invoice.webp" alt="Kitebill: switching a live invoice to euros and back, then sending it until it is stamped paid" width="100%"></a>
-
-**[Kitebill](https://kitebill-app.pages.dev)**: a landing page for a concept invoicing app, where the hero is a working invoice. Change the lines, the currency or the GST and press Send to watch it get opened, nudged and paid. Next.js, React and Tailwind CSS, with a scroll story and a template carousel further down. [Source](https://github.com/Necromancervbh/kitebill)
-
-## Selected work
-
-<table>
+<!-- Bio Section -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://umber-studio.pages.dev"><img src="assets/umber-table.webp" alt="Umber: setting a table for four, switching to a slate surface and changing the glazes" width="100%"></a>
-      <br><b><a href="https://umber-studio.pages.dev">Umber</a></b>
-      <br>Stoneware store with a set-the-table builder: plates, bowls and cups laid out to scale on real table photos, in any glaze.
+    <td width="60%" valign="top">
+      <h2>👋 Hello, World!</h2>
+      <p>I'm a <b>B.Tech CS (Data Science)</b> graduate from UPES and a <b>Full Stack Developer</b>.</p>
+      <p>My expertise lies at the intersection of <b>Data Science</b> and <b>Application Development</b>. Whether it's training machine learning models to predict clinical outcomes or building production-ready Android marketplaces, I love turning complex problems into elegant, user-centric solutions.</p>
+      <p>Previously, I built end-to-end ML pipelines as a <b>Data Science Intern at IBM</b>.</p>
+      <p>⚒️ <b>Currently building:</b> <a href="https://github.com/Necromancervbh/Flowforge-">FlowForge</a>, a card game where every card is a real PC automation.</p>
+      <p>🌱 <b>Currently learning:</b> Advanced Agentic AI & Azure Cloud Architecture.</p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://vellune-parfums.pages.dev"><img src="assets/vellune.jpg" alt="Vellune perfume store home page" width="100%"></a>
-      <br><b><a href="https://vellune-parfums.pages.dev">Vellune</a></b>
-      <br>Perfume house with a scent constellation: pick a fragrance and its top, heart and base notes draw themselves as stars.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://tadka-theory.pages.dev"><img src="assets/tadka-theory.jpg" alt="Tadka Theory spice store home page" width="100%"></a>
-      <br><b><a href="https://tadka-theory.pages.dev">Tadka Theory</a></b>
-      <br>Indian spice store with a Blend Lab: spoon spices into a jar, watch the flavour chart reshape and get a named blend.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://necromancervbh.github.io/Flowforge-/"><img src="assets/flowforge.jpg" alt="FlowForge: card collection, the forge and running combos" width="100%"></a>
-      <br><b><a href="https://github.com/Necromancervbh/Flowforge-">FlowForge</a></b>
-      <br>A deckbuilder where every card is a real PC automation. Snap WHEN, IF and THEN cards into combos that sort files and watch pages.
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Necromancervbh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&v=9" width="100%" />
     </td>
   </tr>
 </table>
 
-<sub>Kitebill, Umber, Vellune and Tadka Theory are concept sites I designed and built end to end. Their photography is AI-generated.</sub>
+<br>
 
-## Open source
-
-**[shopify-speed-audit](https://github.com/Necromancervbh/shopify-speed-audit)** checks a Shopify store for the usual speed problems and tells you what to fix first. No install, no dependencies:
-
-```text
-$ npx github:Necromancervbh/shopify-speed-audit theme-dawn-demo.myshopify.com
-
-Shopify speed audit  https://theme-dawn-demo.myshopify.com/
-  Theme: Dawn (Dawn 15.0.0)
-  Score 99/100 (A)
-
-  ! Embedded iframes  1 load immediately
-  ✓ Render-blocking scripts  0 in <head> without async or defer
-  ✓ Hero image loading  first images load eagerly
-```
-
-- **[slack-doc-bot](https://github.com/Necromancervbh/slack-doc-bot)**: answers team questions in Slack from internal documents, using retrieval with LangChain, Pinecone and GPT-4o.
-- **[consultbae-ai-automation](https://github.com/Necromancervbh/consultbae-ai-automation)**: merges candidate data from three recruitment sources, deduplicates it and tags skills with an LLM through n8n, plus an audio collection app with signal analysis.
-- **[FlowForge](https://github.com/Necromancervbh/Flowforge-)**: the automation deckbuilder above. Zero dependencies, tested on Windows, macOS and Linux. [Play it in the browser](https://necromancervbh.github.io/Flowforge-/).
-
-## Before freelancing
-
-I studied Computer Science with a Data Science specialisation at UPES and worked as a Data Science intern at IBM, building end-to-end machine learning pipelines. Projects from that time:
-
-- **TaxConnect**: a two-sided Android marketplace that connects taxpayers with chartered accountants, with in-app WebRTC video consultations. Kotlin, MVVM, Firebase.
-- **Patient outcome predictor**: a reproducible pipeline on clinical data, above 85% accuracy, using SMOTE for the class imbalance.
-- **Customer churn predictor**: a classifier trained on 10,000 telecom records, 0.91 AUC-ROC.
-
-## Tools
-
-Shopify and Liquid · Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML and CSS · Figma · Node.js · Python · Kotlin · Git
+<!-- Tech Stack -->
+<h2 align="center">⚡ Tech Arsenal</h2>
+<div align="center">
+  <p><b>Backend & AI</b></p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,sqlite,bash&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+  
+  <br><br>
+  <p><b>Frontend, Mobile & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,html,css,js,androidstudio,firebase,git,github,azure,docker&perline=15" />
+</div>
 
 <br>
 
-**Open to freelance work:** Shopify builds and fixes, landing pages, and Figma to code. [Upwork](https://www.upwork.com/freelancers/~01e34c5fa04da53175) · [Fiverr](https://www.fiverr.com/vaibhavshukl11) · [vaibhavshukl23@gmail.com](mailto:vaibhavshukl23@gmail.com)
+<!-- Projects -->
+<h2 align="center">🏆 Featured Projects</h2>
+<table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚒️ <a href="https://github.com/Necromancervbh/Flowforge-">FlowForge</a>: automations as a card game</h3>
+      <p>A deckbuilder where every card is a real PC automation. Snap <b>WHEN</b> / <b>IF</b> / <b>THEN</b> cards into combos that sort downloads, watch web pages, back up files and ping Discord, then level them up by running them. Zero dependencies, hand-drawn SVG card art, and a test suite that runs on Windows, macOS and Linux.</p>
+      <p><code>Node.js</code> <code>Vanilla JS</code> <code>SVG</code> <code>GitHub Actions</code>
+        <a href="https://github.com/Necromancervbh/Flowforge-/actions/workflows/test.yml"><img src="https://github.com/Necromancervbh/Flowforge-/actions/workflows/test.yml/badge.svg" alt="Tests" align="right" /></a></p>
+      <a href="https://github.com/Necromancervbh/Flowforge-"><img src="https://raw.githubusercontent.com/Necromancervbh/Flowforge-/main/docs/screenshots/overview.png" alt="FlowForge screenshot" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Necromancervbh/slack-doc-bot">Slack Doc-Bot (AI)</a></h3>
+      <p>An enterprise-grade Slack bot that answers team questions from internal documents using RAG, LangChain, and GPT-4o.</p>
+      <p><code>Python</code> <code>Pinecone</code> <code>LangChain</code> <code>OpenAI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/Necromancervbh/consultbae-ai-automation">ConsultBae AI Automation</a></h3>
+      <p>Unifies candidate data from three recruitment sources, automates deduplication and LLM skill tagging with n8n, and ships an audio collection app with signal analysis.</p>
+      <p><code>FastAPI</code> <code>n8n</code> <code>SQLite</code> <code>NumPy / SciPy</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 TaxConnect</h3>
+      <p>A production-ready two-sided Android marketplace connecting taxpayers & CAs, featuring in-app WebRTC video consultations.</p>
+      <p><code>Kotlin</code> <code>MVVM</code> <code>WebRTC</code> <code>Firebase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Patient Outcome Predictor</h3>
+      <p>Reproducible ML pipeline achieving 85%+ accuracy on clinical data. Corrected class imbalances using SMOTE.</p>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📊 Customer Churn Predictor</h3>
+      <p>Supervised classification model trained on a 10,000-record telecom dataset, achieving an impressive 91% AUC-ROC.</p>
+      <p><code>Python</code> <code>XGBoost</code> <code>Random Forest</code></p>
+    </td>
+  </tr>
+</table>
+
+<!-- Footer -->
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=100&section=footer" width="100%" />
+</div>
+
