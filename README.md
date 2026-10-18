@@ -96,6 +96,6 @@
 <!-- Footer -->
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5&height=100&section=footer" width="100%" />
+  <img src="assets/footer-bug.webp" alt="Game saved: the friendly BUG hops across the forest floor. Thanks for stopping by" width="100%" />
 </div>
 
